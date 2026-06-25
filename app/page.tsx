@@ -224,11 +224,11 @@ export default function Home() {
     <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
 
       {[
-        "/galerie/1.jpg",
-        "/galerie/7.jpg",
-        "/galerie/3.PNG",
-        "/galerie/4.PNG",
-        "/galerie/5.jpg",
+        "/galerie/1.JPG",
+        "/galerie/7.JPG",
+        "/galerie/3.png",
+        "/galerie/4.png",
+        "/galerie/5.JPG",
         "/galerie/6.png",
       ].map((img, index) => (
         <div
